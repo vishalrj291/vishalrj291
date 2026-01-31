@@ -54,13 +54,11 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishalrj291&show_icons=true&theme=tokyonight" />
-</p>
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=vishalrj291&theme=tokyonight&border_radius=10" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishalr2918&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=vishalr2918&theme=tokyonight)
 ---
 
 ## 📈 Contribution Overview
