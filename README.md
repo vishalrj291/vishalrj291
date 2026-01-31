@@ -57,8 +57,6 @@
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishalr2918&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=vishalr2918&theme=tokyonight)
 ---
 
 ## 📈 Contribution Overview
