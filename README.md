@@ -11,11 +11,7 @@
 
 ## ✨ Dynamic Message
 
-<p align="center">
- <img 
-  src="https://readme-typing-svg.demolab.com/font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Building+Real+World+Projects;Learning+MERN+%2B+DevOps;Debugging+With+Coffee"
-/>
-</p>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Building+Real+World+Projects;Learning+MERN+%2B+DevOps;Debugging+With+Coffee)
 
 ---
 
