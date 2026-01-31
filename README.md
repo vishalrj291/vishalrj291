@@ -12,7 +12,9 @@
 ## ✨ Dynamic Message
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Building+real-world+projects;Learning+MERN+%26+DevOps;Debugging+with+coffee+☕" />
+ <img 
+  src="https://readme-typing-svg.demolab.com/font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Building+Real+World+Projects;Learning+MERN+%2B+DevOps;Debugging+With+Coffee"
+/>
 </p>
 
 ---
@@ -63,7 +65,6 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=vishalrj291&theme=tokyonight&border_radius=10" />
 </p>
-
 ---
 
 ## 📈 Contribution Overview
