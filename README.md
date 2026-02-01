@@ -68,7 +68,7 @@
 ## 🤝 Connect With Me
 
 <p>
-  <a href="https://www.linkedin.com/in/vishal-raj"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/vishal-raj-530a1b322?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="vr790313@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
   <a href="https://github.com/vishalrj291"><img src="https://skillicons.dev/icons?i=github" /></a>
 </p>
