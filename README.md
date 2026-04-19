@@ -11,7 +11,7 @@
 
 ## ✨ Dynamic Message
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Building+Real+World+Projects;Learning+MERN+%2B+DevOps;Debugging+With+Coffee)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Building+Real+World+Projects;Learning+MERN+%2B+DevOps;Debugging+With+Song)
 
 ---
 
@@ -27,7 +27,7 @@
 
 ## 🎯 Fun Zone
 
-> ☕ Coffee keeps my code alive  
+>    Songs keeps my code alive  
 > 🐞 Bugs fear my debugging stare  
 > 🍝 White sauce pasta = deploy fuel  
 
@@ -37,7 +37,7 @@
 
 ### 👨‍💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,c" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,c,ruby" />
 </p>
 
 ### ⚙️ Frameworks & Libraries
