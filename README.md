@@ -36,7 +36,7 @@
 
 ### 👨‍💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,c,ruby" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,c" />
 </p>
 
 ### ⚙️ Frameworks & Libraries
