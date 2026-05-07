@@ -17,7 +17,7 @@
 
 ## 🚀 About Me
 
-- 💻 B.Tech CSE student focused on **real-world development**
+- 💻 B.Tech CSE(AI) student focused on **real-world development**
 - 🌱 Currently learning **MERN Stack** and core **DevOps fundamentals**
 - 🧠 Strong believer in **projects > certificates**
 - ⚙️ Interested in backend systems, automation, and scalable apps
