@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Full Stack Developer | MERN | DevOps Learner</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vishal-raj-530a1b322?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/vishal-raj-530a1b322?">LinkedIn</a> •
   <a href="mailto:vr790313@gmail.com">Email</a> •
   <a href="https://github.com/vishalrj291">GitHub</a>
 </p>
@@ -36,7 +36,7 @@
 
 ### 👨‍💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,c" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,java" />
 </p>
 
 ### ⚙️ Frameworks & Libraries
@@ -68,7 +68,7 @@
 ## 🤝 Connect With Me
 
 <p>
-  <a href="https://www.linkedin.com/in/vishal-raj-530a1b322?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/vishal-raj-530a1b322?"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="vr790313@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
   <a href="https://github.com/vishalrj291"><img src="https://skillicons.dev/icons?i=github" /></a>
 </p>
