@@ -57,7 +57,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishalrj291&show_icons=true&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vishalrj291&theme=radical)
+<img src="https://streak-stats.demolab.com?user=vishalrj291&theme=radical" alt="GitHub Streak" />
 
 ## 📈 Contribution Overview
 
