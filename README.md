@@ -51,13 +51,18 @@
 
 ---
 
-
-
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishalrj291&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vishalrj291&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" />
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=vishalrj291&theme=radical)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=vishalrj291&theme=radical&hide_border=false" alt="GitHub Streak" />
+</p>
+
+
+
 ## 📈 Contribution Overview
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vishalrj291&theme=tokyonight" />
