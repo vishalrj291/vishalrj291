@@ -56,7 +56,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishalrj291&show_icons=true&theme=radical)
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=vishalrj291&theme=radical&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=vishalrj291&theme=radical&hide_border=false" alt="" />
 </p>
 
 
