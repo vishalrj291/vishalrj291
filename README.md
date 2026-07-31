@@ -28,7 +28,7 @@
 ## 🎯 Fun Zone
   
 > 🐞 Bugs fear my debugging stare  
-> 🍝 White sauce pasta = deploy fuel  
+> 🍝 White sauce pasta = deploy energy
 
 ---
 
