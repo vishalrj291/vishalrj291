@@ -222,10 +222,11 @@ I want to understand **how systems actually work underneath them**.
 * Building serious AI/ML projects instead of notebook-only demos
 
 ---
-## Github
+## 🔥 GitHub Streak
+
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=vishalrj291&hide_border=true&theme=transparent"
+    src="https://streak-stats.demolab.com/?user=vishalrj291&theme=tokyonight&hide_border=true"
     alt="GitHub Streak"
   />
 </p>
