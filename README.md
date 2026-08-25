@@ -227,19 +227,8 @@ I want to understand **how systems actually work underneath them**.
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=vishalrj291&show_icons=true&hide_border=true&theme=tokyonight"
-    height="180"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalrj291&layout=compact&hide_border=true&theme=tokyonight"
-    height="180"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=vishalrj291&theme=tokyonight&hide_border=true"
-    height="180"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=vishalrj291&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true"
+    width="95%"
   />
 </p>
 
