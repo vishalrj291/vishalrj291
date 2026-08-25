@@ -225,10 +225,7 @@ I want to understand **how systems actually work underneath them**.
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=vishalrj291&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
+  <img src="./assets/streak.svg" alt="GitHub Streak" width="500">
 </p>
 
 ## 📈 Contribution Graph
