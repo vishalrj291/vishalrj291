@@ -226,15 +226,22 @@ I want to understand **how systems actually work underneath them**.
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishalrj291&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalrj291&layout=compact&hide_border=true&theme=transparent" height="170"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=vishalrj291&show_icons=true&hide_border=true&theme=tokyonight"
+    height="180"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalrj291&layout=compact&hide_border=true&theme=tokyonight"
+    height="180"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=vishalrj291&hide_border=true&theme=transparent" />
+  <img
+    src="https://streak-stats.demolab.com/?user=vishalrj291&theme=tokyonight&hide_border=true"
+    height="180"
+  />
 </p>
-
----
 
 ## 📈 Contribution Graph
 
