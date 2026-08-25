@@ -1,76 +1,303 @@
-<h1 align="center">Hi 👋, I'm Vishal Raj</h1>
-<h3 align="center">Aspiring Full Stack Developer | MERN | DevOps Learner</h3>
+<h1 align="center">Vishal Raj</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vishal-raj-530a1b322?">LinkedIn</a> •
-  <a href="mailto:vr790313@gmail.com">Email</a> •
-  <a href="https://github.com/vishalrj291">GitHub</a>
+  <strong>Full Stack Developer • AI/ML Engineer • DevOps Enthusiast</strong>
+</p>
+
+<p align="center">
+  <a href="https://github.com/vishalrj291">
+    <img src="https://img.shields.io/badge/GitHub-vishalrj291-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/vishal-raj-530a1b322">
+    <img src="https://img.shields.io/badge/LinkedIn-Vishal%20Raj-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:vr790313@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail" />
+  </a>
 </p>
 
 ---
 
-## ✨ Dynamic Message
+## `$ whoami`
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Leveling+up+through+code,+one+commit+at+a+time;Learning+MERN+%2B+DevOps;From+E-Rank+Developer+to+S-Rank+Engineer)
+```bash
+vishal@dev:~$ whoami
+
+B.Tech CSE (AI) student building production-oriented software,
+AI/ML systems and scalable web applications.
+
+Currently focused on:
+→ Full Stack Development
+→ Backend Engineering
+→ DevOps & Cloud
+→ AI/ML Engineering
+→ System Design
+```
+
+I enjoy taking an idea from **architecture → implementation → deployment** rather than stopping at a prototype.
+
+My goal is to build software that is not only functional, but also **maintainable, scalable and production-ready**.
 
 ---
 
-## 🚀 About Me
+## ⚡ What I Build
 
-- 💻 B.Tech CSE(AI) student focused on **real-world development**
-- 🌱 Currently learning **MERN Stack** and core **DevOps fundamentals**
-- 🧠 Strong believer in **projects > certificates**
-- ⚙️ Interested in backend systems, automation, and scalable apps
-- 🏗️ Actively building projects to prepare for **off-campus roles**
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                     ENGINEERING FOCUS                        │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│  Full Stack        MERN applications & REST APIs             │
+│                                                              │
+│  Backend           Node.js / Express / FastAPI               │
+│                                                              │
+│  AI / ML           Predictive systems & intelligent tools    │
+│                                                              │
+│  DevOps            Docker / Linux / CI-CD / Cloud            │
+│                                                              │
+│  Data              MongoDB / PostgreSQL / Data Pipelines     │
+│                                                              │
+│  Frontend          React / JavaScript / Tailwind CSS         │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
 
 ---
 
-## 🎯 Fun Zone
-  
-> 🐞 Bugs fear my debugging stare  
-> 🍝 White sauce pasta = deploy energy
+## 🧰 Tech Stack
 
----
+### Languages
 
-## 🛠️ Tech Stack
-
-### 👨‍💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,java" />
+  <img src="https://skillicons.dev/icons?i=javascript,python,java,html,css" />
 </p>
 
-### ⚙️ Frameworks & Libraries
+### Frontend
+
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" />
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind" />
 </p>
 
-### ☁️ Tools & Platforms
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
+</p>
+
+### Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres" />
+</p>
+
+### DevOps & Infrastructure
+
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,linux,docker" />
 </p>
 
+### AI / Data
+
+```text
+Python
+├── NumPy
+├── Pandas
+├── Scikit-learn
+├── XGBoost
+├── CatBoost
+├── LightGBM
+└── SHAP
+```
+
 ---
 
-## 📊 GitHub Stats
+## 🚀 Featured Engineering Work
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishalrj291&show_icons=true&theme=radical)
+### 🌐 Full Stack Applications
+
+**NOTA Speaks**
+
+Civic-tech platform built around community participation and campaign management.
+
+```text
+React + Vite
+Node.js + Express
+MongoDB + Mongoose
+OTP Authentication
+Admin Dashboard
+REST APIs
+Deployment
+```
+
+---
+
+### 🤖 AI / ML Systems
+
+**MICRONYX**
+
+An automated ML pipeline designed to adapt itself to different datasets rather than relying on manually selected models.
+
+```text
+Data Characterization
+        ↓
+Automated EDA
+        ↓
+Preprocessing
+        ↓
+Feature Engineering
+        ↓
+Candidate Models
+        ↓
+Evaluation
+        ↓
+Best Model Selection
+        ↓
+Deployment
+```
+
+---
+
+### 🛰️ Aerospace / Digital Twin
+
+**AeroTwin**
+
+An aerospace-oriented digital twin and mission-control system combining backend services, visualization and data-driven analysis.
+
+```text
+Python
+FastAPI
+React
+Machine Learning
+Geospatial Data
+NASA / ISRO datasets
+```
+
+---
+
+## 🧠 Engineering Philosophy
+
+```python
+def build_software(problem):
+    understand(problem)
+
+    architecture = design_for_scale(problem)
+
+    system = implement(
+        clean_code=True,
+        security=True,
+        maintainability=True
+    )
+
+    test(system)
+    containerize(system)
+    deploy(system)
+
+    return "ship → measure → improve"
+```
+
+I don't want to just learn frameworks.
+
+I want to understand **how systems actually work underneath them**.
+
+---
+
+## 📚 Currently Learning
+
+```text
+[████████████████░░░░] Full Stack Development
+[██████████████░░░░░░] Backend Engineering
+[████████████░░░░░░░░] DevOps & Cloud
+[██████████░░░░░░░░░░] System Design
+[██████████░░░░░░░░░░] Data Structures & Algorithms
+[████████░░░░░░░░░░░░] AI / ML Engineering
+```
+
+### Current priorities
+
+* Building production-grade MERN applications
+* Deepening backend and API development
+* Learning Docker, CI/CD and cloud deployment
+* Improving DSA and problem-solving
+* Designing better system architectures
+* Building serious AI/ML projects instead of notebook-only demos
+
+---
+
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=vishalrj291&theme=radical&hide_border=false" alt="" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vishalrj291&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalrj291&layout=compact&hide_border=true&theme=transparent" height="170"/>
 </p>
 
-
-
-## 📈 Contribution Overview
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vishalrj291&theme=tokyonight" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=vishalrj291&hide_border=true&theme=transparent" />
+</p>
 
 ---
 
-## 🤝 Connect With Me
+## 📈 Contribution Graph
 
-<p>
-  <a href="https://www.linkedin.com/in/vishal-raj-530a1b322?"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="vr790313@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://github.com/vishalrj291"><img src="https://skillicons.dev/icons?i=github" /></a>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vishalrj291&theme=github_dark" />
 </p>
+
+---
+
+## 🛠️ Development Environment
+
+```text
+Editor       → VS Code
+OS           → Windows / Linux
+Version Ctrl → Git + GitHub
+Containers   → Docker
+Frontend     → React + Vite
+Backend      → Node.js / FastAPI
+Databases    → MongoDB / PostgreSQL
+Deployment   → Vercel / Render / Cloud
+```
+
+---
+
+## 🎯 2026 → 2027
+
+```text
+        LEARN
+          ↓
+     BUILD SYSTEMS
+          ↓
+      DEPLOY THEM
+          ↓
+     BREAK THEM
+          ↓
+       DEBUG
+          ↓
+      IMPROVE
+          ↓
+     SHIP AGAIN
+```
+
+The target isn't collecting technologies.
+
+The target is becoming an engineer who can take an ambiguous problem and turn it into a **working, deployable system**.
+
+---
+
+## 📫 Let's Connect
+
+<p align="center">
+  <a href="https://github.com/vishalrj291">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/vishal-raj-530a1b322">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:vr790313@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <i>Build. Break. Debug. Deploy. Repeat.</i>
+</p>
+
