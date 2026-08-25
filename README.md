@@ -222,13 +222,11 @@ I want to understand **how systems actually work underneath them**.
 * Building serious AI/ML projects instead of notebook-only demos
 
 ---
-
-## 📊 GitHub Activity
-
+## Github
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=vishalrj291&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true"
-    width="95%"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=vishalrj291&hide_border=true&theme=transparent"
+    alt="GitHub Streak"
   />
 </p>
 
